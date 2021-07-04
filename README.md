@@ -1,24 +1,11 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+current issues:
 
-Things you may want to cover:
 
-* Ruby version
+page does not reload after sending message
+page does not show the sent message
 
-* System dependencies
 
-* Configuration
+sending another message is blocked as page is not reloaded
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
