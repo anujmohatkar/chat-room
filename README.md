@@ -9,3 +9,4 @@ page does not show the sent message
 
 sending another message is blocked as page is not reloaded
 
+INprogress project
